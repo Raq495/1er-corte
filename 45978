@@ -1,0 +1,51 @@
+using System;
+using System.IO;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace maxx
+{
+
+    
+
+namespace CSharp_Shell
+{
+
+    public static class Program 
+    {
+        public static void Main() 
+        {
+           Console.WriteLine("buenos dias profesor luis brito");
+           Console.WriteLine("soy el estudiante andry aponte");
+           Console.WriteLine("pulse cualquier tecla para resolver el primer ejercicio...");
+           Console.ReadLine();
+           int a;
+           int b;
+           int c;
+           a = 2;
+           b = 4;
+           c = 1;
+           Console.Write(a);
+           Console.Write(a);
+           Console.Write(c);
+           Console.Write(b);
+           Console.WriteLine();
+           Console.WriteLine("aacb");
+           Console.WriteLine("pulse otra tecla para resolver el segundo ejercicio...");
+           Console.ReadLine();
+           Console.Write(b);
+           Console.Write(c);
+           Console.Write(a);
+           Console.WriteLine();
+           Console.WriteLine("bca");
+           Console.WriteLine("pulse otra tecla para resolver el tercer ejercicio... ");
+           Console.ReadLine();
+           Console.Write(b);
+           Console.Write(c);
+           Console.Write(b);
+           Console.Write(c);
+           Console.WriteLine();
+           Console.WriteLine("bcbc");
+           Console.WriteLine("pulse otra tecla para cerrar el programa...");
+			
+        
